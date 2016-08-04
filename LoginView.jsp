@@ -22,7 +22,7 @@
 							</tr>
 							<tr>
 								<td><b>E-Mail-Adresse:</b><br>
-								<input class="loginview" type="text" name="email" value="">
+								<input class="loginview" type="text" name="email" value="email">
 								</td>
 							</tr>
 							<tr>
