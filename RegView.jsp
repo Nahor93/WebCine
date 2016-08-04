@@ -47,7 +47,7 @@
 							</tr>
 							<tr>
 								<td><b>Passwort:</b><br> <input class="regview" type="text"
-									name="passwort" value="mindestens 6 vZeichen"></td>
+									name="passwort" value="mindestens 6 Zeichen"></td>
 
 							</tr>
 							<tr>
