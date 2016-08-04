@@ -47,7 +47,7 @@
 							</tr>
 							<tr>
 								<td><b>Passwort:</b><br> <input class="regview" type="text"
-									name="passwort" value="mindestens 6 Zeichen"></td>
+									name="passwort" value="mindestens 6 vZeichen"></td>
 
 							</tr>
 							<tr>
@@ -64,7 +64,7 @@
 							<tr>
 								<td><b>Geschlecht:</b><br> <input type="radio"
 									name="geschlecht" value="" />Weiblich<br>
-								<input type="radio" name="geschlecht" value="" />Männlich
+								<input type="radio" name="geschlecht" value="" />MÃ¤nnlich
 								</td>
 							</tr>
 							<tr>
@@ -73,7 +73,7 @@
 							<tr>
 								<td><b>Bundesland:</b><br> <select class="regview"
 									name="bundesland">
-										<option value="1">Baden-Württemberg</option>
+										<option value="1">Baden-WÃ¼rttemberg</option>
 										<option value="2">Bayern</option>
 										<option value="3">Berlin</option>
 										<option value="4">Brandenburg</option>
@@ -88,7 +88,7 @@
 										<option value="13">Sachsen</option>
 										<option value="14">Sachsen-Anhalt</option>
 										<option value="15">Schleswig-Holstein</option>
-										<option value="16">Thüringen</option>
+										<option value="16">ThÃ¼ringen</option>
 								</select>
 								</td>
 							</tr>
@@ -113,8 +113,8 @@
 								<td></td>
 							</tr>
 							<tr>
-								<td><b>Straße:</b><br> <input class="regview" type="text"
-									name="straße" value=""></td>
+								<td><b>StraÃŸe:</b><br> <input class="regview" type="text"
+									name="straÃŸe" value=""></td>
 
 							</tr>
 							<tr>
